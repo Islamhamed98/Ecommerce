@@ -1,0 +1,33 @@
+*{
+    margin:0;padding:0;outline: 0;
+}
+body{
+    height:4000px;
+}
+
+/* Start Log In */
+
+.login{
+    width:500px;
+    margin:100px auto;
+}
+.login input{
+    margin-bottom:10px;
+}
+.show-pass{
+    position:absolute;
+    top:3px;
+    left:534px;
+}
+.star{
+    position:absolute;
+    top:12px;
+    left:540px;
+}
+ tr.ter{
+    background-color:#333;
+    color:#FFF;
+}
+
+
+/* End Log In */
